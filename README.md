@@ -6,9 +6,9 @@
 <h3 style="font-weight:bold"> Things I do : 🔭 </h3>
  <ul>
  <li> I am a frontend developer specialized in React JS.<img src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="90" height="85"> </li>
-(No worries buddy, I can still help you out with your backend built on Node/ Express 😜 ) <img src="https://media.giphy.com/media/SXrX3G3zSPuqLfXY0L/giphy.gif" width="90" height="85">
+(No worries buddy, I can still help you out with your backend built on Node/ Express 😜 )
 <br/>
- <li> I am also an mobile app developer capable enough in coding in Kotlin, React-Native and Flutter.
+ <li> I am also an mobile app developer capable enough in coding in Kotlin, React-Native and Flutter.<img src="https://media.giphy.com/media/zJvqd1XpgoG4HOIxgg/giphy.gif" width="90" height="85">
 <br/>
 - I am also a passionate video producer and on all of my free days, you can find me producing some content which I put up on my YouTube Channel.
 <br/>
