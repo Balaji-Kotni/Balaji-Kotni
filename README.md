@@ -5,7 +5,7 @@
 
 I am a Electronics Undergrad and a Freelancer. My interests range from Technology to Music and Videography. I have been freelancing along with my partner or friend <a href="https://github.com/DibyajyotiMishra/DibyajyotiMishra"> Dibyajyoti Mishra <a> for over an year now. A passionate video producer, I spend my weekends producing some awesome content for my audience on my YouTube Channel. I have produced some of the fab UI which have been loved not only by my clients, but also the users of their products. I am also an avid learner and tech enthusiast; and spend a lot of teaching myself latest tech. This also means I code a lot!! 
  
- **A cup of Coffee + my Laptop + some great content ideas = My Weekends ** 
+ **A cup of Coffee + my Laptop + some great content ideas = My Weekends** 
 
 <h3 style="font-weight:bold"> Things I do : 🔭 </h3>
  <ul>
