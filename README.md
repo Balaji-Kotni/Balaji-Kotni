@@ -25,7 +25,7 @@ I am a Electronics Undergrad and a Freelancer. My interests range from Technolog
 <br/>
 <br/>
 
-<h4> Have some great Ideas?? Reach out to me. Let's tailor your dreams and bring them to life. <img src="https://media.giphy.com/media/7JKvwAIqXCeQsqTT8Z/giphy.gif" width="60"> </h4>
+<h1> Have some great Ideas?? Reach out to me. Let's tailor your dreams and bring them to life. <img src="https://media.giphy.com/media/7JKvwAIqXCeQsqTT8Z/giphy.gif" width="60"> </h1>
 <em><b>You can reach out to me otherwise too. I love talking to people. Let's talk and exchange ideas. 😃 </b></em>
 
 
