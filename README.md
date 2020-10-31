@@ -10,11 +10,12 @@ I am a Electronics Undergrad and a Freelancer. My interests range from Technolog
 
 <h3 style="font-weight:bold"> Things I do : 🔭 </h3>
  <ul>
- <li> Frontend developer specialized in React JS.<img src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="90" height="85"> </li>
+ <li> Frontend developer specialized in React JS.</li>
 (No worries buddy, I can still help you out with your backend built on Node/ Express 😜 )
 <br/>
- <li>Mobile Application Dev- Kotlin,React-Native,Flutter.<img src="https://media.giphy.com/media/9tXzDP8vOZNnisl9sa/giphy.gif" width="90" height="85" style="margin-top:-10">
+ <li>Mobile Application Dev- Kotlin,React-Native,Flutter.</li>
 <br/> 
+ <li>Graphic Designer- User Interfaces and Video Production. </li>
  </ul>
 
 
