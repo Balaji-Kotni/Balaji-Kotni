@@ -14,7 +14,7 @@
 <br/>
 - I am the co-founder of the group ThyDreams Studio along with <a href="https://github.com/DibyajyotiMishra/DibyajyotiMishra"> Dibyajyoti Mishra </a> where we take up your ideas and bring them to life. 
 
-<img src="" width="250" height="250">
+<img src="https://media.giphy.com/media/KY4iqSjtpQbXHt2Pra/giphy.gif" width="250" height="250">
 <!--
 **Balaji-Kotni/Balaji-Kotni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
