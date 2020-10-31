@@ -4,7 +4,7 @@
 <h2 style="text-decoration:underline; font-family:Gabriola">Frontend Developer | UI/UX Designer | Video Producer | Student </h2>
 
 <h3 style="font-weight:bold"> Things I do : 🔭 </h3>
- <ol>
+ <ul>
  <li> I am a frontend developer specialized in React JS.<img src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="70" height="80"> </li>
 **(No worries buddy, I can still help you out with your backend built on Node/ Express 😜 )**
 <br/>
