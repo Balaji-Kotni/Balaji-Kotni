@@ -1,6 +1,6 @@
 
-<h1> Hi, Mate. I am Balaji..<img src="https://media.giphy.com/media/QBkmBad7HjH4jM11Wx/giphy.gif" width="200" height="200"> </h1>
-
+<img src="https://media.giphy.com/media/QBkmBad7HjH4jM11Wx/giphy.gif" width="400" height="400"> 
+<h1> Hi, Mate. I am Balaji... </h1>
 <h2 style="text-decoration:underline; font-family:Gabriola">Frontend Developer | UI/UX Designer | Video Producer | Student </h2>
 
 <h3 style="font-weight:bold"> Things I do : 🔭 </h3>
