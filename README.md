@@ -34,5 +34,5 @@ I am a Electronics Undergrad and a Freelancer. My interests range from Technolog
 You can connect with me through <a href="mailto:kotnivenkatabalaji@gmail.com"> <b> e-mail </b><a>, <a href="https://wa.me/917032874146"><b>WhatsApp </b></a>, and <a href="https://www.linkedin.com/in/balaji-kotni-5461331b2/"><b>Linkedin</b></a>.
 <br/>
 <br/>
-<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So, See you on the other side. 👋 </h3>
+<h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So, See you on the other side. 👋 </h3>
 
