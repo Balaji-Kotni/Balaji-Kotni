@@ -3,18 +3,17 @@
 <h1> Hi, Mate. I am Balaji... </h1>
 <h2 style="text-decoration:underline; font-family:Gabriola">Frontend Developer | UI/UX Designer | Video Producer | Student </h2>
 
+I am a Electronics Undergrad and a Freelancer. My interests range from Technology to Music and Videography. I have been freelancing along with my partner or friend <a href="https://github.com/DibyajyotiMishra/DibyajyotiMishra"> Dibyajyoti Mishra <a> for over an year now. A passionate video producer, I spend my weekends producing some awesome content for my audience on my YouTube Channel. I have produced some of the fab UI which have been loved not only by my clients, but also the users of their products. I am also an avid learner and tech enthusiast; and spend a lot of teaching myself latest tech. This also means I code a lot!! 
+ 
+ **A cup of Coffee + my Laptop + some great content ideas = My Weekends ** 
+
 <h3 style="font-weight:bold"> Things I do : 🔭 </h3>
  <ul>
  <li> Frontend developer specialized in React JS.<img src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="90" height="85"> </li>
 (No worries buddy, I can still help you out with your backend built on Node/ Express 😜 )
 <br/>
  <li>Mobile Application Dev- Kotlin,React-Native,Flutter.<img src="https://media.giphy.com/media/9tXzDP8vOZNnisl9sa/giphy.gif" width="90" height="85" style="margin-top:-10">
-<br/>
-<li>Video Producer <img src="https://tenor.com/bisxK.gif" width="95" height="80"</li>
-<br/>
- <li> I am a full-time freelancer and provide services which range from building highly scallable Web Apps, Awesome Mobile Apps, Designing User Interfaces to producing some great video content. If you have great ideas and are looking for an freelancer with the skills I have; Feel free to reach out to me via <a href="mailto:kotnivenkatabalaji@gmail.com"> E-Mail</a> and <a href="https://wa.me/917032874146">Whatsapp </a>. They are linked here with their respective words. 
-<br/>
- <li> I am the co-founder of the group ThyDreams Studio along with <a href="https://github.com/DibyajyotiMishra/DibyajyotiMishra"> Dibyajyoti Mishra </a> where we take up your ideas and bring them to life. 
+<br/> 
  </ul>
 
 
