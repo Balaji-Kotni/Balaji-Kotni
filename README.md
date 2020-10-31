@@ -1,7 +1,7 @@
-<link href='https://fonts.googleapis.com/css?family=Almendra Display' rel='stylesheet'>
+
 ### <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" height="200"> <h1> Hi there, I am Balaji... </h1> 
 
-<h2 style="text-decoration:underline; font-family: 'Almendra Display' ">Frontend Developer, UI/UX Designer and a passionate Video Producer. </h2>
+<h2 style="text-decoration:underline; font-family: Forte ">Frontend Developer, UI/UX Designer and a passionate Video Producer. </h2>
 
 
 <!--
