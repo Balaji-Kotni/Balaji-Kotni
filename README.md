@@ -10,6 +10,7 @@ I am a Electronics Undergrad and a Freelancer. My interests range from Technolog
 <br/>
  
 <h3 style="font-weight:bold"> Things I do : 🔭 </h3>
+<img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="230">
  <ul>
  <li> Frontend developer specialized in React JS.</li>
 (No worries buddy, I can still help you out with your backend built on Node/ Express 😜 )
