@@ -14,11 +14,16 @@ I am a Electronics Undergrad and a Freelancer. My interests range from Technolog
  <ul>
  <li> Frontend developer specialized in React JS.</li>
 (No worries buddy, I can still help you out with your backend built on Node/ Express 😜 )
-<br/>
  <li>Mobile Application Dev- Kotlin,React-Native,Flutter.</li>
-<br/> 
  <li>Graphic Designer- User Interfaces and Video Production. </li>
  </ul>
+ 
+<br/>
+<br/>
+
+<h2> Have some great Ideas?? Reach out to me. Let's tailor your dreams and bring them to life.</h2>
+<img src="<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">" width="60"><em> <b>You can reach out to me otherwise too. I love talking to people. Let's talk and exchange ideas. 😃 </b></em>
+
 
 
 <!--
