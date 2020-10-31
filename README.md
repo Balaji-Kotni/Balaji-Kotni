@@ -27,7 +27,7 @@ I am a Electronics Undergrad and a Freelancer. My interests range from Technolog
 <br/>
 <br/>
 
-<h3 style="text-decoration:none;"> <img src="https://media.giphy.com/media/7JKvwAIqXCeQsqTT8Z/giphy.gif" width="60"> </h3> Have some great Ideas?? Reach out to me. Let's tailor your dreams and bring them to life. 
+<h3 style="text-decoration:none;"><img src="https://media.giphy.com/media/7JKvwAIqXCeQsqTT8Z/giphy.gif" width="60"> Have some great Ideas?? Reach out to me. Let's tailor your dreams and bring them to life.  </h3>  
 <em><b>You can reach out to me otherwise too. I love talking to people. Let's talk and exchange ideas. 😃 </b></em>
 <br/>
 You can connect with me through <a href="mailto:kotnivenkatabalaji@gmail.com"> <b> e-mail </b><a>, <a href="https://wa.me/917032874146"><b>WhatsApp </b></a>, and <a href="https://www.linkedin.com/in/balaji-kotni-5461331b2/"><b>Linkedin</b></a>.
