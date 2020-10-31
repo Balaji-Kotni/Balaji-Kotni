@@ -10,7 +10,7 @@
 <br/>
  <li>Mobile Application Dev- Kotlin,React-Native,Flutter.<img src="https://media.giphy.com/media/9tXzDP8vOZNnisl9sa/giphy.gif" width="90" height="85" style="margin-top:-10">
 <br/>
-<li>Video Producer <img src="https://media.giphy.com/media/Wsd9n9jDlnuWp1XR0u/giphy.gif" width="95" height="80"</li>
+<li>Video Producer <img src="https://tenor.com/bisxK.gif" width="95" height="80"</li>
 <br/>
  <li> I am a full-time freelancer and provide services which range from building highly scallable Web Apps, Awesome Mobile Apps, Designing User Interfaces to producing some great video content. If you have great ideas and are looking for an freelancer with the skills I have; Feel free to reach out to me via <a href="mailto:kotnivenkatabalaji@gmail.com"> E-Mail</a> and <a href="https://wa.me/917032874146">Whatsapp </a>. They are linked here with their respective words. 
 <br/>
