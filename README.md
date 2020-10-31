@@ -1,5 +1,7 @@
 
-### <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" height="200"> Hi there, I am Balaji.. 
+### <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" height="200"> <h1> Hi there, I am Balaji... </h1> 
+
+<h2 style="text-decoration:underline">Frontend Developer, UI/UX Designer and a passionate Video Producer. </h2>
 
 
 <!--
