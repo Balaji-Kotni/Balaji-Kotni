@@ -1,8 +1,8 @@
 
-<img src="https://media.giphy.com/media/QBkmBad7HjH4jM11Wx/giphy.gif" width="400" height="400"> 
+<img align='center' src="https://media.giphy.com/media/QBkmBad7HjH4jM11Wx/giphy.gif" width="400" height="400"> 
 <h1> Hi, Mate. I am Balaji... </h1>
 <h2 style="text-decoration:underline; font-family:Gabriola">Frontend Developer | UI/UX Designer | Video Producer | Student </h2>
-
+<img align='left' src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="230">
 I am a Electronics Undergrad and a Freelancer. My interests range from Technology to Music and Videography. I have been freelancing along with my partner or friend <a href="https://github.com/DibyajyotiMishra/DibyajyotiMishra"> Dibyajyoti Mishra <a> for over an year now. A passionate video producer, I spend my weekends producing some awesome content for my audience on my YouTube Channel. I have produced some of the fab UI which have been loved not only by my clients, but also the users of their products. I am also an avid learner and tech enthusiast; and spend a lot of teaching myself latest tech. This also means I code a lot!! 
  
  **A cup of Coffee + my Laptop + some great content ideas = My Weekends** 
