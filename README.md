@@ -1,5 +1,5 @@
 
-### Hi there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400" height="400">
+### <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" height="200"> Hi there, I am Balaji.. 
 
 
 <!--
