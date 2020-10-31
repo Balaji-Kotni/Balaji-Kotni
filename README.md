@@ -4,7 +4,7 @@
 <h2 style="text-decoration:underline; font-family:Gabriola">Frontend Developer | UI/UX Designer | Video Producer | Student </h2>
 
 <h3 style="font-weight:bold"> Things I do : 🔭 </h3>
-- I am a frontend developer(No worries buddy, I can still help you out with your backend built on Node/ Express 😜 ) specialized in React JS.
+- I am a frontend developer(No worries buddy, I can still help you out with your backend built on Node/ Express 😜 ) specialized in React JS. <img src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="75" height="80">
 <br/>
 - I am also an mobile app developer capable enough in coding in Kotlin, React-Native and Flutter.
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 - I am the co-founder of the group ThyDreams Studio along with <a href="https://github.com/DibyajyotiMishra/DibyajyotiMishra"> Dibyajyoti Mishra </a> where we take up your ideas and bring them to life. 
 
-<img src="https://media.giphy.com/media/KY4iqSjtpQbXHt2Pra/giphy.gif" width="250" height="250">
+
 <!--
 **Balaji-Kotni/Balaji-Kotni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
