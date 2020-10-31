@@ -8,9 +8,9 @@
  <li> I am a frontend developer specialized in React JS.<img src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="90" height="85"> </li>
 (No worries buddy, I can still help you out with your backend built on Node/ Express 😜 )
 <br/>
- <li> I am also an mobile app developer capable enough in coding in Kotlin, React-Native and Flutter.<img src="https://media.giphy.com/media/zJvqd1XpgoG4HOIxgg/giphy.gif" width="90" height="85">
+ <li> I am also an mobile app developer capable enough in coding in Kotlin, React-Native and Flutter.<img src="https://media.giphy.com/media/zJvqd1XpgoG4HOIxgg/giphy.gif" width="90" height="85" style="margin-top:-10">
 <br/>
-- I am also a passionate video producer and on all of my free days, you can find me producing some content which I put up on my YouTube Channel.
+<li> I am also a passionate video producer and on all of my free days, you can find me producing some content which I put up on my YouTube Channel. </li>
 <br/>
  <li> I am a full-time freelancer and provide services which range from building highly scallable Web Apps, Awesome Mobile Apps, Designing User Interfaces to producing some great video content. If you have great ideas and are looking for an freelancer with the skills I have; Feel free to reach out to me via <a href="mailto:kotnivenkatabalaji@gmail.com"> E-Mail</a> and <a href="https://wa.me/917032874146">Whatsapp </a>. They are linked here with their respective words. 
 <br/>
