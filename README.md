@@ -25,22 +25,9 @@ I am a Electronics Undergrad and a Freelancer. My interests range from Technolog
 <br/>
 <br/>
 
-<h2 style="text-decoration:none;"> Have some great Ideas?? Reach out to me. Let's tailor your dreams and bring them to life. <img src="https://media.giphy.com/media/7JKvwAIqXCeQsqTT8Z/giphy.gif" width="60"> </h1>
+<h3 style="text-decoration:none;"> Have some great Ideas?? Reach out to me. Let's tailor your dreams and bring them to life. <img src="https://media.giphy.com/media/7JKvwAIqXCeQsqTT8Z/giphy.gif" width="60"> </h3>
 <em><b>You can reach out to me otherwise too. I love talking to people. Let's talk and exchange ideas. 😃 </b></em>
+You can connect with me through <a href="mailto:kotnivenkatabalaji@gmail.com"> <b> e-mail </b> <a>, <a href="https://wa.me/917032874146"><b>whatsapp </b>, and <a href="https://www.linkedin.com/in/balaji-kotni-5461331b2/"><b>linkedin </b></a> .
+ 
+ <h3> So, See you on the other side. </h3>
 
-
-
-<!--
-**Balaji-Kotni/Balaji-Kotni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
