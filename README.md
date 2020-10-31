@@ -5,12 +5,12 @@
 
 <h3 style="font-weight:bold"> Things I do : 🔭 </h3>
  <ul>
- <li> I am a frontend developer specialized in React JS.<img src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="90" height="85"> </li>
+ <li> Frontend developer specialized in React JS.<img src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="90" height="85"> </li>
 (No worries buddy, I can still help you out with your backend built on Node/ Express 😜 )
 <br/>
- <li> I am also an mobile app developer capable enough in coding in Kotlin, React-Native and Flutter.<img src="https://media.giphy.com/media/9tXzDP8vOZNnisl9sa/giphy.gif" width="90" height="85" style="margin-top:-10">
+ <li>Mobile Application Dev- Kotlin,React-Native,Flutter.<img src="https://media.giphy.com/media/9tXzDP8vOZNnisl9sa/giphy.gif" width="90" height="85" style="margin-top:-10">
 <br/>
-<li> I am also a passionate video producer and on all of my free days, you can find me producing some content which I put up on my YouTube Channel. </li>
+<li>Video Producer <img src="https://media.giphy.com/media/Wsd9n9jDlnuWp1XR0u/giphy.gif" width="95" height="80"</li>
 <br/>
  <li> I am a full-time freelancer and provide services which range from building highly scallable Web Apps, Awesome Mobile Apps, Designing User Interfaces to producing some great video content. If you have great ideas and are looking for an freelancer with the skills I have; Feel free to reach out to me via <a href="mailto:kotnivenkatabalaji@gmail.com"> E-Mail</a> and <a href="https://wa.me/917032874146">Whatsapp </a>. They are linked here with their respective words. 
 <br/>
