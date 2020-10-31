@@ -1,6 +1,6 @@
 
-<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400" height="400">
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="400" height="400">
+
 
 <!--
 **Balaji-Kotni/Balaji-Kotni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
