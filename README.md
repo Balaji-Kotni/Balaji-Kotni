@@ -1,5 +1,6 @@
 
 <img align='center' src="https://media.giphy.com/media/QBkmBad7HjH4jM11Wx/giphy.gif" width="400" height="400"> 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=Balaji-Kotni&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" > 
 <h1> Hi mate, I am Balaji. </h1>
 <img align='left' src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="300">
 <h2 style="text-decoration:underline; font-family:Gabriola">Frontend Developer | UI/UX Designer | Video Producer | Student </h2>
