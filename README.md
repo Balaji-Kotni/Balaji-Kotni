@@ -3,7 +3,7 @@
 </div>
 
 <h1> Hi mate, I am Balaji. </h1>
-<img align='left' src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="300">
+<img align='center' src="https://media.giphy.com/media/QzBbk0AVInBfT4NzeI/giphy.gif" width="300">
 <h2 style="text-decoration:underline; font-family:Gabriola">Frontend Developer | UI/UX Designer | Video Producer | Student </h2>
 I am an Electronics Undergrad and a Freelancer. My interests range from Technology to Music and Videography. I have been freelancing along with my partner and friend <a href="https://github.com/DibyajyotiMishra"> Dibyajyoti Mishra <a> for over an year now. A passionate video producer, I spend my weekends producing some awesome content for my audience on my YouTube Channel. I have produced some of the fab UI which have been loved not only by my clients, but also the users of their products. I am also an avid learner and tech enthusiast; and spend a lot of teaching myself latest tech. This also means I code a lot!!  
 <br/>
