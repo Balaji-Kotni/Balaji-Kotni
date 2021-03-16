@@ -1,6 +1,5 @@
 <div class="row">
  <img class="column" src="https://media.giphy.com/media/QBkmBad7HjH4jM11Wx/giphy.gif" width="400" height="400"> 
- <img class="column" src="https://github-readme-stats.vercel.app/api?username=BalajiKotni&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" > 
 </div>
 
 <h1> Hi mate, I am Balaji. </h1>
@@ -42,4 +41,8 @@ You can connect with me through <a href="mailto:kotnivenkatabalaji@gmail.com"> <
 <br/>
 <br/>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;So, See you on the other side. 👋 </h3>
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balaji-Kotni&count_private=true&show_icons=true&theme=flag-india&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Kotni&langs_count=3&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
